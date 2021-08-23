@@ -1,1 +1,3 @@
-# favorite-desserts
+# My Favorite Desserts!
+
+Scout - Tiramisu
